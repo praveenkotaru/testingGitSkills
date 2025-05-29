@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class HelloWorld {
     static int a;
     static int b;
+    int c;
+    
 
     public static void main(String[] args) {
         System.out.println("Hello world");
